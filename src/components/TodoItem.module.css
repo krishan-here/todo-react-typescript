@@ -1,0 +1,11 @@
+.todoItem {
+    width: 500px;
+    border-bottom: 2px solid rgb(55, 56, 45);
+    background-color: rgb(245, 245, 212);
+    border-radius: 5px 5px 0 0;
+    cursor: pointer;
+    font-size: 30px;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 5px;
+}
